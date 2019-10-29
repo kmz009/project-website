@@ -64,4 +64,14 @@ tr {
     height: 350px;
     margin: 0 auto;
     background-image: url(../img/bet.jpg);
+    
+}
+.win {
+    background-color: limegreen;
+}
+.lost {
+    background-color: rgb(241, 77, 26);
+}
+.inPlay {
+    background-color: yellow;
 }

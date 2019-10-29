@@ -1,5 +1,7 @@
 body {
-    background-color: lightseagreen;
+    background: url(../img/joker.jpg);
+    background-position-x: center;
+    
     
 }
 
@@ -68,6 +70,9 @@ table {
 }
 .win {
     background-color: limegreen;
+}
+.winmore {
+    background: linear-gradient(rgb(236, 253, 0),rgba(5, 255, 5, 0.514));
 }
 .lost {
     background-color: rgb(241, 77, 26);

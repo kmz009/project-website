@@ -58,8 +58,10 @@ tr {
     border: 1px solid black;
 }
 
-.introduction {
+#introduction {
     width: 800px;
     background-color: blanchedalmond;
-    height: 700px;
+    height: 300px;
+    margin: 0 auto;
+    background-image: url(img/bet.jpg);
 }

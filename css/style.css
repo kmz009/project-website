@@ -1,6 +1,6 @@
 body {
     background-color: lightseagreen;
-
+    
 }
 
 h1 {
@@ -51,13 +51,12 @@ table {
     border: 1px solid black;
     border-collapse: collapse;
     margin: 0 auto;
+   
 }
-
-th,
-tr {
-    border: 1px solid black;
-}
-
+ /* {
+    color: white;
+    text-shadow: 1px 1px 2px black;
+} */
 #introduction {
     width: 850px;
     background-color: blanchedalmond;
@@ -74,4 +73,11 @@ tr {
 }
 .inPlay {
     background-color: yellow;
+}
+tr:nth-child(1) {
+    background-color: grey;
+}
+th,
+tr {
+    border: 1px solid black;
 }

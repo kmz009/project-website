@@ -22,7 +22,7 @@ table {
     border-collapse: collapse;
     margin: 0 auto;
     text-align: left;
-    background-image:url(../img/bet.jpg);
+    
    
 }
  /* {
@@ -31,7 +31,7 @@ table {
 } */
 #challenger3, #challenger4 {
     width: 850px;
-    background-color: blanchedalmond;
+    background-image:url(../img/bet.jpg);
     height: 350px;
     margin: 0 auto;
     

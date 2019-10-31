@@ -4,6 +4,9 @@ body {
     
     
 }
+tr {
+    background-color: rgba(245, 245, 245, 0.507);
+}
 
 h1 {
     text-align: center;
@@ -29,10 +32,10 @@ table {
     color: white;
     text-shadow: 1px 1px 2px black;
 } */
-#challenger3, #challenger4 {
+ #challenger4 {
     width: 850px;
     background-image:url(../img/bet.jpg);
-    height: 350px;
+    height: 390px;
     margin: 0 auto;
     
 }
